@@ -1,6 +1,3 @@
-
-export default function Home() {
-  return (
-   <div>Hello Next.js</div>
-  );
+export default function Hello() {
+    return<div>Hello Next.js</div>
 }
